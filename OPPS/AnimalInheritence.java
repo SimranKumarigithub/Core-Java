@@ -1,3 +1,4 @@
+// Inheritance
 package OPPS;
 //AnimalInheritence is a parent class
 public class AnimalInheritence {
