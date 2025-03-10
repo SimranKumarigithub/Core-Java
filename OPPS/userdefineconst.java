@@ -13,6 +13,7 @@ public class userdefineconst {
     public static void main(String args[]) {
 
         userdefineconst obj = new userdefineconst();
+        System.out.println(obj.Name);
 
     }
 
